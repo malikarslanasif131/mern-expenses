@@ -1,0 +1,11 @@
+1) To run Full Project Open CMD and Type Command 
+           
+                                             "npm run dev"
+
+2) check console to connect dataBase Successfully  or Not .
+
+
+3) For Login Email : admin@admin.com
+          password: 11
+
+
